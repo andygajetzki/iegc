@@ -1,0 +1,3409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<periodic pagetitle=""><table>
+	<tr>
+		<td class="groupheading"><b>Group</b></td>
+		<td class="groupheading">1</td>
+		<td class="groupheading">2</td>
+		<td class="groupheading">3</td>
+		<td class="groupheading">4</td>
+		<td class="groupheading">5</td>
+		<td class="groupheading">6</td>
+		<td class="groupheading">7</td>
+		<td class="groupheading">8</td>
+		<td class="groupheading">9</td>
+		<td class="groupheading">10</td>
+		<td class="groupheading">11</td>
+		<td class="groupheading">12</td>
+		<td class="groupheading">13</td>
+		<td class="groupheading">14</td>
+		<td class="groupheading">15</td>
+		<td class="groupheading">16</td>
+		<td class="groupheading">17</td>
+		<td class="groupheading">18</td>
+	</tr>
+	<tr>
+		<td class="periodheading"><b>Period</b></td>
+		<td colspan="6"/>
+		<td colspan="5">Electronegativity difference</td>
+		<td colspan="5"/>
+	</tr>
+	<tr>
+		<td class="periodheading">1</td>
+		<td class="element">
+			<atom color="" state="GAS">
+				<name>Hydrogen</name>
+				<atomic_weight>1.00794</atomic_weight>
+				<atomic_number>1</atomic_number>
+				<oxidation_states>1</oxidation_states>
+				<boiling_point units="Kelvin">20.28</boiling_point>
+				<melting_point units="Kelvin">13.81</melting_point>
+				<symbol>H</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      0.0899
+    </density>
+				<electron_configuration>1s1 </electron_configuration>
+				<covalent_radius units="Angstroms">0.32</covalent_radius>
+				<electronegativity>2.1</electronegativity>
+				<atomic_radius units="Angstroms">2.08</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      0.4581
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      14.1
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      0.0585
+    </heat_of_fusion>
+				<ionization_potential>13.598</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      14.304
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      0.1815
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td colspan="5"/>
+
+<td colspan="2" class="elementcold">&lt;0.4</td>		
+<td colspan="2" class="elementwarm">&gt;=0.4<br/>&amp;<br/>&lt; 1.8 </td>		
+<td colspan="2" class="elementhot">&gt;1.8</td>		
+<td colspan="5"/>
+
+		<td class="element">
+			<atom color="" state="GAS">
+				<name>Helium</name>
+				<atomic_weight>4.0026</atomic_weight>
+				<atomic_number>2</atomic_number>
+				<boiling_point units="Kelvin">4.216</boiling_point>
+				<melting_point units="Kelvin">0.95</melting_point>
+				<symbol>He</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      0.1785
+    </density>
+				<electron_configuration>1s2 </electron_configuration>
+				<covalent_radius units="Angstroms">0.93</covalent_radius>
+				<electronegativity>0</electronegativity>
+				<heat_of_vaporization units="kilojoules/mole">
+      0.084
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      31.8
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      0.021
+    </heat_of_fusion>
+				<ionization_potential>24.587</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      5.193
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      0.152
+    </thermal_conductivity>
+			</atom>
+		</td>
+	</tr>
+	<tr>
+		<td class="periodheading">2</td>
+		<td class="element">
+			<atom color="">
+				<name>Lithium</name>
+				<atomic_weight>6.941</atomic_weight>
+				<atomic_number>3</atomic_number>
+				<oxidation_states>1</oxidation_states>
+				<boiling_point units="Kelvin">1615</boiling_point>
+				<melting_point units="Kelvin">453.7</melting_point>
+				<symbol>Li</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      0.53
+    </density>
+				<electron_configuration>1s2 2s1 </electron_configuration>
+				<covalent_radius units="Angstroms">1.23</covalent_radius>
+				<electronegativity>0.98</electronegativity>
+				<atomic_radius units="Angstroms">1.55</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      147.1
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      13.1
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      3
+    </heat_of_fusion>
+				<ionization_potential>5.392</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      3.582
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      84.7
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Beryllium</name>
+				<atomic_weight>9.01218</atomic_weight>
+				<atomic_number>4</atomic_number>
+				<oxidation_states>2</oxidation_states>
+				<boiling_point units="Kelvin">3243</boiling_point>
+				<melting_point units="Kelvin">1560</melting_point>
+				<symbol>Be</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      1.85
+    </density>
+				<electron_configuration>1s2 2s2 </electron_configuration>
+				<covalent_radius units="Angstroms">0.9</covalent_radius>
+				<electronegativity>1.57</electronegativity>
+				<atomic_radius units="Angstroms">1.12</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      297
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      5
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      11.71
+    </heat_of_fusion>
+				<ionization_potential>9.322</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      1.825
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      200
+    </thermal_conductivity>
+			</atom>
+		</td>
+		
+		<td colspan="10"/>
+		<td class="element">
+			<atom color="">
+				<name>Boron</name>
+				<atomic_weight>10.811</atomic_weight>
+				<atomic_number>5</atomic_number>
+				<oxidation_states>3</oxidation_states>
+				<boiling_point units="Kelvin">4275</boiling_point>
+				<melting_point units="Kelvin">2365</melting_point>
+				<symbol>B</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      2.34
+    </density>
+				<electron_configuration>1s2 2s2 p1 </electron_configuration>
+				<covalent_radius units="Angstroms">0.82</covalent_radius>
+				<electronegativity>2.04</electronegativity>
+				<atomic_radius units="Angstroms">0.98</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      507.8
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      4.6
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      22.6
+    </heat_of_fusion>
+				<ionization_potential>8.298</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      1.026
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      27
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="" state="SOLID">
+				<name>Carbon</name>
+				<atomic_weight>12.011</atomic_weight>
+				<atomic_number>6</atomic_number>
+				<oxidation_states>+/-4, 2</oxidation_states>
+				<boiling_point units="Kelvin">5100</boiling_point>
+				<melting_point units="Kelvin">3825</melting_point>
+				<symbol>C</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      2.26
+    </density>
+				<electron_configuration>1s2 2s2 p2 </electron_configuration>
+				<covalent_radius units="Angstroms">0.77</covalent_radius>
+				<electronegativity>2.55</electronegativity>
+				<atomic_radius units="Angstroms">0.91</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      715
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      5.3
+    </atomic_volume>
+				<ionization_potential>11.26</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.709
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      155
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Nitrogen</name>
+				<atomic_weight>14.0067</atomic_weight>
+				<atomic_number>7</atomic_number>
+				<oxidation_states>+/-3, 5, 4, 2</oxidation_states>
+				<boiling_point units="Kelvin">77.344</boiling_point>
+				<melting_point units="Kelvin">63.15</melting_point>
+				<symbol>N</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      1.251
+    </density>
+				<electron_configuration>1s2 2s2 p3 </electron_configuration>
+				<covalent_radius units="Angstroms">0.75</covalent_radius>
+				<electronegativity>3.04</electronegativity>
+				<atomic_radius units="Angstroms">0.92</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      2.7928
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      17.3
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      0.36
+    </heat_of_fusion>
+				<ionization_potential>14.534</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      1.042
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      0.02598
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Oxygen</name>
+				<atomic_weight>15.9994</atomic_weight>
+				<atomic_number>8</atomic_number>
+				<oxidation_states>-2</oxidation_states>
+				<boiling_point units="Kelvin">90.188</boiling_point>
+				<melting_point units="Kelvin">54.8</melting_point>
+				<symbol>O</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      1.429
+    </density>
+				<electron_configuration>1s2 2s2 p4 </electron_configuration>
+				<covalent_radius units="Angstroms">0.73</covalent_radius>
+				<electronegativity>3.44</electronegativity>
+				<atomic_radius units="Angstroms">0.65</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      3.4109
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      14
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      0.222
+    </heat_of_fusion>
+				<ionization_potential>13.618</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.92
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      0.2674
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Fluorine</name>
+				<atomic_weight>18.9984</atomic_weight>
+				<atomic_number>9</atomic_number>
+				<oxidation_states>-1</oxidation_states>
+				<boiling_point units="Kelvin">85</boiling_point>
+				<melting_point units="Kelvin">53.55</melting_point>
+				<symbol>F</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      1.696
+    </density>
+				<electron_configuration>1s2 2s2 p5 </electron_configuration>
+				<covalent_radius units="Angstroms">0.72</covalent_radius>
+				<electronegativity>3.98</electronegativity>
+				<atomic_radius units="Angstroms">0.57</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      3.2698
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      17.1
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      0.26
+    </heat_of_fusion>
+				<ionization_potential>17.422</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.824
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      0.0279
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Neon</name>
+				<atomic_weight>20.1797</atomic_weight>
+				<atomic_number>10</atomic_number>
+				<boiling_point units="Kelvin">27.1</boiling_point>
+				<melting_point units="Kelvin">24.55</melting_point>
+				<symbol>Ne</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      0.900
+    </density>
+				<electron_configuration>1s2 2s2 p6 </electron_configuration>
+				<covalent_radius units="Angstroms">0.71</covalent_radius>
+				<electronegativity>0</electronegativity>
+				<atomic_radius units="Angstroms">0.51</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      1.77
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      16.9
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      0.34
+    </heat_of_fusion>
+				<ionization_potential>21.564</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      1.03
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      0.0493
+    </thermal_conductivity>
+			</atom>
+		</td>
+	</tr>
+	<tr>
+		<td class="periodheading">3</td>
+		<td class="element">
+			<atom color="">
+				<name>Sodium</name>
+				<atomic_weight>22.98977</atomic_weight>
+				<atomic_number>11</atomic_number>
+				<oxidation_states>1</oxidation_states>
+				<boiling_point units="Kelvin">1156</boiling_point>
+				<melting_point units="Kelvin">371</melting_point>
+				<symbol>Na</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      0.97
+    </density>
+				<electron_configuration>[Ne] 3s1 </electron_configuration>
+				<covalent_radius units="Angstroms">1.54</covalent_radius>
+				<electronegativity>0.93</electronegativity>
+				<atomic_radius units="Angstroms">1.9</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      98.01
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      23.7
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      2.601
+    </heat_of_fusion>
+				<ionization_potential>5.139</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      1.23
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      141
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Magnesium</name>
+				<atomic_weight>24.305</atomic_weight>
+				<atomic_number>12</atomic_number>
+				<oxidation_states>2</oxidation_states>
+				<boiling_point units="Kelvin">1380</boiling_point>
+				<melting_point units="Kelvin">922</melting_point>
+				<symbol>Mg</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      1.74
+    </density>
+				<electron_configuration>[Ne] 3s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.36</covalent_radius>
+				<electronegativity>1.31</electronegativity>
+				<atomic_radius units="Angstroms">1.6</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      127.6
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      14
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      8.95
+    </heat_of_fusion>
+				<ionization_potential>7.646</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      1.02
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      156
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td colspan="10"/>
+		<td class="element">
+			<atom color="">
+				<name>Aluminum</name>
+				<atomic_weight>26.98154</atomic_weight>
+				<atomic_number>13</atomic_number>
+				<oxidation_states>3</oxidation_states>
+				<boiling_point units="Kelvin">2740</boiling_point>
+				<melting_point units="Kelvin">933.5</melting_point>
+				<symbol>Al</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      2.7
+    </density>
+				<electron_configuration>[Ne] 3s2 p1 </electron_configuration>
+				<covalent_radius units="Angstroms">1.18</covalent_radius>
+				<electronegativity>1.61</electronegativity>
+				<atomic_radius units="Angstroms">1.43</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      290.8
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      10
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      10.7
+    </heat_of_fusion>
+				<ionization_potential>5.986</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.9
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      237
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Silicon</name>
+				<atomic_weight>28.0855</atomic_weight>
+				<atomic_number>14</atomic_number>
+				<oxidation_states>4</oxidation_states>
+				<boiling_point units="Kelvin">2630</boiling_point>
+				<melting_point units="Kelvin">1683</melting_point>
+				<symbol>Si</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      2.33
+    </density>
+				<electron_configuration>[Ne] 3s2 p2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.11</covalent_radius>
+				<electronegativity>1.9</electronegativity>
+				<atomic_radius units="Angstroms">1.32</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      359
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      12.1
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      50.2
+    </heat_of_fusion>
+				<ionization_potential>8.151</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.70
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      148
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Phosphorus</name>
+				<atomic_weight>30.97376</atomic_weight>
+				<atomic_number>15</atomic_number>
+				<oxidation_states>+/-3, 5, 4</oxidation_states>
+				<boiling_point units="Kelvin">553</boiling_point>
+				<melting_point units="Kelvin">317.3</melting_point>
+				<symbol>P</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      1.82
+    </density>
+				<electron_configuration>[Ne] 3s2 p3 </electron_configuration>
+				<covalent_radius units="Angstroms">1.06</covalent_radius>
+				<electronegativity>2.19</electronegativity>
+				<atomic_radius units="Angstroms">1.28</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      12.4
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      17
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      0.63
+    </heat_of_fusion>
+				<ionization_potential>10.486</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.769
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      0.235
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Sulfur</name>
+				<atomic_weight>32.066</atomic_weight>
+				<atomic_number>16</atomic_number>
+				<oxidation_states>+/-2, 4, 6</oxidation_states>
+				<boiling_point units="Kelvin">717.82</boiling_point>
+				<melting_point units="Kelvin">392.2</melting_point>
+				<symbol>S</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      2.07
+    </density>
+				<electron_configuration>[Ne] 3s2 p4 </electron_configuration>
+				<covalent_radius units="Angstroms">1.02</covalent_radius>
+				<electronegativity>2.58</electronegativity>
+				<atomic_radius units="Angstroms">1.27</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      10
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      15.5
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      1.73
+    </heat_of_fusion>
+				<ionization_potential>10.36</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.71
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      0.269
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Chlorine</name>
+				<atomic_weight>35.4527</atomic_weight>
+				<atomic_number>17</atomic_number>
+				<oxidation_states>+/-1, 3, 5, 7</oxidation_states>
+				<boiling_point units="Kelvin">239.18</boiling_point>
+				<melting_point units="Kelvin">172.17</melting_point>
+				<symbol>Cl</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      3.214
+    </density>
+				<electron_configuration>[Ne] 3s2 p5 </electron_configuration>
+				<covalent_radius units="Angstroms">0.99</covalent_radius>
+				<electronegativity>3.16</electronegativity>
+				<atomic_radius units="Angstroms">0.97</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      10.2
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      18.7
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      3.21
+    </heat_of_fusion>
+				<ionization_potential>12.967</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.48
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      0.0089
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="" state="GAS">
+				<name>Argon</name>
+				<atomic_weight>39.948</atomic_weight>
+				<atomic_number>18</atomic_number>
+				<boiling_point units="Kelvin">87.45</boiling_point>
+				<melting_point units="Kelvin">83.95</melting_point>
+				<symbol>Ar</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      1.784
+    </density>
+				<electron_configuration>[Ne] 3s2 p6 </electron_configuration>
+				<covalent_radius units="Angstroms">0.98</covalent_radius>
+				<electronegativity>0</electronegativity>
+				<atomic_radius units="Angstroms">0.88</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      6.506
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      24.2
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      1.188
+    </heat_of_fusion>
+				<ionization_potential>15.759</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.52
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      0.0177
+    </thermal_conductivity>
+			</atom>
+		</td>
+	</tr>
+	<tr>
+		<td class="periodheading">4</td>
+		<td class="element">
+			<atom color="">
+				<name>Potassium</name>
+				<atomic_weight>39.0983</atomic_weight>
+				<atomic_number>19</atomic_number>
+				<oxidation_states>1</oxidation_states>
+				<boiling_point units="Kelvin">1033</boiling_point>
+				<melting_point units="Kelvin">336.8</melting_point>
+				<symbol>K</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      0.86
+    </density>
+				<electron_configuration>[Ar] 4s1 </electron_configuration>
+				<covalent_radius units="Angstroms">2.03</covalent_radius>
+				<electronegativity>0.82</electronegativity>
+				<atomic_radius units="Angstroms">2.35</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      76.9
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      45.3
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      2.33
+    </heat_of_fusion>
+				<ionization_potential>4.341</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.757
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      102.5
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Calcium</name>
+				<atomic_weight>40.078</atomic_weight>
+				<atomic_number>20</atomic_number>
+				<oxidation_states>2</oxidation_states>
+				<boiling_point units="Kelvin">1757</boiling_point>
+				<melting_point units="Kelvin">1112</melting_point>
+				<symbol>Ca</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      1.55
+    </density>
+				<electron_configuration>[Ar] 4s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.74</covalent_radius>
+				<electronegativity>1</electronegativity>
+				<atomic_radius units="Angstroms">1.97</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      154.67
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      29.9
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      8.53
+    </heat_of_fusion>
+				<ionization_potential>6.113</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.647
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      200
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Scandium</name>
+				<atomic_weight>44.9559</atomic_weight>
+				<atomic_number>21</atomic_number>
+				<oxidation_states>3</oxidation_states>
+				<boiling_point units="Kelvin">3109</boiling_point>
+				<melting_point units="Kelvin">1814</melting_point>
+				<symbol>Sc</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      2.99
+    </density>
+				<electron_configuration>[Ar] 3d1 4s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.44</covalent_radius>
+				<electronegativity>1.36</electronegativity>
+				<atomic_radius units="Angstroms">1.62</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      304.8
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      15
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      16.11
+    </heat_of_fusion>
+				<ionization_potential>6.54</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.568
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      15.8
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Titanium</name>
+				<atomic_weight>47.88</atomic_weight>
+				<atomic_number>22</atomic_number>
+				<oxidation_states>4, 3</oxidation_states>
+				<boiling_point units="Kelvin">3560</boiling_point>
+				<melting_point units="Kelvin">1945</melting_point>
+				<symbol>Ti</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      4.54
+    </density>
+				<electron_configuration>[Ar] 3d2 4s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.32</covalent_radius>
+				<electronegativity>1.54</electronegativity>
+				<atomic_radius units="Angstroms">1.45</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      425.2
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      10.6
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      18.6
+    </heat_of_fusion>
+				<ionization_potential>6.82</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.523
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      21.9
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Vanadium</name>
+				<atomic_weight>50.9415</atomic_weight>
+				<atomic_number>23</atomic_number>
+				<oxidation_states>5, 4, 3, 2</oxidation_states>
+				<boiling_point units="Kelvin">3650</boiling_point>
+				<melting_point units="Kelvin">2163</melting_point>
+				<symbol>V</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      6.11
+    </density>
+				<electron_configuration>[Ar] 3d3 4s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.22</covalent_radius>
+				<electronegativity>1.63</electronegativity>
+				<atomic_radius units="Angstroms">1.34</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      446.7
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      8.35
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      20.8
+    </heat_of_fusion>
+				<ionization_potential>6.74</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.489
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      30.7
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Chromium</name>
+				<atomic_weight>51.996</atomic_weight>
+				<atomic_number>24</atomic_number>
+				<oxidation_states>6, 3, 2</oxidation_states>
+				<boiling_point units="Kelvin">2945</boiling_point>
+				<melting_point units="Kelvin">2130</melting_point>
+				<symbol>Cr</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      7.19
+    </density>
+				<electron_configuration>[Ar] 3d5 4s1 </electron_configuration>
+				<covalent_radius units="Angstroms">1.18</covalent_radius>
+				<electronegativity>1.66</electronegativity>
+				<atomic_radius units="Angstroms">1.3</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      339.5
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      7.23
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      20
+    </heat_of_fusion>
+				<ionization_potential>6.766</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.449
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      93.7
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Manganese</name>
+				<atomic_weight>54.938</atomic_weight>
+				<atomic_number>25</atomic_number>
+				<oxidation_states>7, 6, 4, 2, 3</oxidation_states>
+				<boiling_point units="Kelvin">2335</boiling_point>
+				<melting_point units="Kelvin">1518</melting_point>
+				<symbol>Mn</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      7.44
+    </density>
+				<electron_configuration>[Ar] 3d5 4s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.17</covalent_radius>
+				<electronegativity>1.55</electronegativity>
+				<atomic_radius units="Angstroms">1.35</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      219.74
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      7.39
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      14.64
+    </heat_of_fusion>
+				<ionization_potential>7.435</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.48
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      7.82
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Iron</name>
+				<atomic_weight>55.847</atomic_weight>
+				<atomic_number>26</atomic_number>
+				<oxidation_states>2, 3</oxidation_states>
+				<boiling_point units="Kelvin">3023</boiling_point>
+				<melting_point units="Kelvin">1808</melting_point>
+				<symbol>Fe</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      7.874
+    </density>
+				<electron_configuration>[Ar] 3d6 4s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.17</covalent_radius>
+				<electronegativity>1.83</electronegativity>
+				<atomic_radius units="Angstroms">1.26</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      349.5
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      7.1
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      13.8
+    </heat_of_fusion>
+				<ionization_potential>7.87</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.449
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      80.2
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Cobalt</name>
+				<atomic_weight>58.9332</atomic_weight>
+				<atomic_number>27</atomic_number>
+				<oxidation_states>2, 3</oxidation_states>
+				<boiling_point units="Kelvin">3143</boiling_point>
+				<melting_point units="Kelvin">1768</melting_point>
+				<symbol>Co</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      8.9
+    </density>
+				<electron_configuration>[Ar] 3d7 4s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.16</covalent_radius>
+				<electronegativity>1.88</electronegativity>
+				<atomic_radius units="Angstroms">1.25</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      373.3
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      6.7
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      16.19
+    </heat_of_fusion>
+				<ionization_potential>7.86</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.421
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      100
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Nickel</name>
+				<atomic_weight>58.6934</atomic_weight>
+				<atomic_number>28</atomic_number>
+				<oxidation_states>2, 3</oxidation_states>
+				<boiling_point units="Kelvin">3005</boiling_point>
+				<melting_point units="Kelvin">1726</melting_point>
+				<symbol>Ni</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      8.9
+    </density>
+				<electron_configuration>[Ar] 3d8 4s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.15</covalent_radius>
+				<electronegativity>1.91</electronegativity>
+				<atomic_radius units="Angstroms">1.24</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      377.5
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      6.6
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      17.2
+    </heat_of_fusion>
+				<ionization_potential>7.635</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.444
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      90.7
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Copper</name>
+				<atomic_weight>63.546</atomic_weight>
+				<atomic_number>29</atomic_number>
+				<oxidation_states>2, 1</oxidation_states>
+				<boiling_point units="Kelvin">2840</boiling_point>
+				<melting_point units="Kelvin">1356.6</melting_point>
+				<symbol>Cu</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      8.96
+    </density>
+				<electron_configuration>[Ar] 3d10 4s1 </electron_configuration>
+				<covalent_radius units="Angstroms">1.17</covalent_radius>
+				<electronegativity>1.9</electronegativity>
+				<atomic_radius units="Angstroms">1.28</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      300.5
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      7.1
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      13.14
+    </heat_of_fusion>
+				<ionization_potential>7.726</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.385
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      401
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Zinc</name>
+				<atomic_weight>65.39</atomic_weight>
+				<atomic_number>30</atomic_number>
+				<oxidation_states>2</oxidation_states>
+				<boiling_point units="Kelvin">1180</boiling_point>
+				<melting_point units="Kelvin">692.73</melting_point>
+				<symbol>Zn</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      7.13
+    </density>
+				<electron_configuration>[Ar] 3d10 4s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.25</covalent_radius>
+				<electronegativity>1.65</electronegativity>
+				<atomic_radius units="Angstroms">1.38</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      115.3
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      9.2
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      7.38
+    </heat_of_fusion>
+				<ionization_potential>9.394</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.388
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      116
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Gallium</name>
+				<atomic_weight>69.723</atomic_weight>
+				<atomic_number>31</atomic_number>
+				<oxidation_states>3</oxidation_states>
+				<boiling_point units="Kelvin">2478</boiling_point>
+				<melting_point units="Kelvin">302.92</melting_point>
+				<symbol>Ga</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      5.91
+    </density>
+				<electron_configuration>[Ar] 3d10 4s2 p1 </electron_configuration>
+				<covalent_radius units="Angstroms">1.26</covalent_radius>
+				<electronegativity>1.81</electronegativity>
+				<atomic_radius units="Angstroms">1.41</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      256.06
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      11.8
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      5.59
+    </heat_of_fusion>
+				<ionization_potential>5.999</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.371
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      40.6
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Germanium</name>
+				<atomic_weight>72.61</atomic_weight>
+				<atomic_number>32</atomic_number>
+				<oxidation_states>4</oxidation_states>
+				<boiling_point units="Kelvin">3107</boiling_point>
+				<melting_point units="Kelvin">1211.5</melting_point>
+				<symbol>Ge</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      5.32
+    </density>
+				<electron_configuration>[Ar] 3d10 4s2 p2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.22</covalent_radius>
+				<electronegativity>2.01</electronegativity>
+				<atomic_radius units="Angstroms">1.37</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      334.3
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      13.6
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      31.8
+    </heat_of_fusion>
+				<ionization_potential>7.899</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.32
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      59.9
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Arsenic</name>
+				<atomic_weight>74.9216</atomic_weight>
+				<atomic_number>33</atomic_number>
+				<oxidation_states>+/-3, 5</oxidation_states>
+				<boiling_point units="Kelvin">876</boiling_point>
+				<melting_point units="Kelvin">1090</melting_point>
+				<symbol>As</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      5.78
+    </density>
+				<electron_configuration>[Ar] 3d10 4s2 p3 </electron_configuration>
+				<covalent_radius units="Angstroms">1.2</covalent_radius>
+				<electronegativity>2.18</electronegativity>
+				<atomic_radius units="Angstroms">1.39</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      32.4
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      13.1
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      27.7
+    </heat_of_fusion>
+				<ionization_potential>9.81</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.33
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      50
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Selenium</name>
+				<atomic_weight>78.96</atomic_weight>
+				<atomic_number>34</atomic_number>
+				<oxidation_states>-2, 4, 6</oxidation_states>
+				<boiling_point units="Kelvin">958</boiling_point>
+				<melting_point units="Kelvin">494</melting_point>
+				<symbol>Se</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      4.79
+    </density>
+				<electron_configuration>[Ar] 3d10 4s2 p4 </electron_configuration>
+				<covalent_radius units="Angstroms">1.16</covalent_radius>
+				<electronegativity>2.55</electronegativity>
+				<atomic_radius units="Angstroms">1.4</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      26.32
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      16.5
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      5.54
+    </heat_of_fusion>
+				<ionization_potential>9.752</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.32
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      2.04
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Bromine</name>
+				<atomic_weight>79.904</atomic_weight>
+				<atomic_number>35</atomic_number>
+				<oxidation_states>+/-1, 5</oxidation_states>
+				<boiling_point units="Kelvin">331.85</boiling_point>
+				<melting_point units="Kelvin">265.95</melting_point>
+				<symbol>Br</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      3.12
+    </density>
+				<electron_configuration>[Ar] 3d10 4s2 p5 </electron_configuration>
+				<covalent_radius units="Angstroms">1.14</covalent_radius>
+				<electronegativity>2.96</electronegativity>
+				<atomic_radius units="Angstroms">1.12</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      14.725
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      23.5
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      5.286
+    </heat_of_fusion>
+				<ionization_potential>11.814</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.226
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      0.122
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Krypton</name>
+				<atomic_weight>83.8</atomic_weight>
+				<atomic_number>36</atomic_number>
+				<boiling_point units="Kelvin">120.85</boiling_point>
+				<melting_point units="Kelvin">116</melting_point>
+				<symbol>Kr</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      3.75
+    </density>
+				<electron_configuration>[Ar] 3d10 4s2 p6 </electron_configuration>
+				<covalent_radius units="Angstroms">1.89</covalent_radius>
+				<electronegativity>0</electronegativity>
+				<atomic_radius units="Angstroms">1.03</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      9.029
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      32.2
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      1.638
+    </heat_of_fusion>
+				<ionization_potential>13.999</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.248
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      0.00949
+    </thermal_conductivity>
+			</atom>
+		</td>
+	</tr>
+	<tr>
+		<td class="periodheading">5</td>
+		<td class="element">
+			<atom color="">
+				<name>Rubidium</name>
+				<atomic_weight>85.4678</atomic_weight>
+				<atomic_number>37</atomic_number>
+				<oxidation_states>1</oxidation_states>
+				<boiling_point units="Kelvin">961</boiling_point>
+				<melting_point units="Kelvin">312.63</melting_point>
+				<symbol>Rb</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      1.532
+    </density>
+				<electron_configuration>[Kr] 5s1 </electron_configuration>
+				<covalent_radius units="Angstroms">2.16</covalent_radius>
+				<electronegativity>0.82</electronegativity>
+				<atomic_radius units="Angstroms">2.48</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      69.2
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      55.9
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      2.34
+    </heat_of_fusion>
+				<ionization_potential>4.177</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.363
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      58.2
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Strontium</name>
+				<atomic_weight>87.62</atomic_weight>
+				<atomic_number>38</atomic_number>
+				<oxidation_states>2</oxidation_states>
+				<boiling_point units="Kelvin">1655</boiling_point>
+				<melting_point units="Kelvin">1042</melting_point>
+				<symbol>Sr</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      2.54
+    </density>
+				<electron_configuration>[Kr] 5s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.91</covalent_radius>
+				<electronegativity>0.95</electronegativity>
+				<atomic_radius units="Angstroms">2.15</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      136.9
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      33.7
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      8.2
+    </heat_of_fusion>
+				<ionization_potential>5.695</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.3
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      35.3
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Yttrium</name>
+				<atomic_weight>88.9059</atomic_weight>
+				<atomic_number>39</atomic_number>
+				<oxidation_states>3</oxidation_states>
+				<boiling_point units="Kelvin">3611</boiling_point>
+				<melting_point units="Kelvin">1795</melting_point>
+				<symbol>Y</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      4.47
+    </density>
+				<electron_configuration>[Kr] 4d1 5s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.62</covalent_radius>
+				<electronegativity>1.22</electronegativity>
+				<atomic_radius units="Angstroms">1.78</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      363.3
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      19.8
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      17.5
+    </heat_of_fusion>
+				<ionization_potential>6.38</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.3
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      17.2
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Zirconium</name>
+				<atomic_weight>91.224</atomic_weight>
+				<atomic_number>40</atomic_number>
+				<oxidation_states>4</oxidation_states>
+				<boiling_point units="Kelvin">4682</boiling_point>
+				<melting_point units="Kelvin">2128</melting_point>
+				<symbol>Zr</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      6.51
+    </density>
+				<electron_configuration>[Kr] 4d2 5s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.45</covalent_radius>
+				<electronegativity>1.33</electronegativity>
+				<atomic_radius units="Angstroms">1.6</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      590.5
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      14.1
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      21
+    </heat_of_fusion>
+				<ionization_potential>6.84</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.278
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      22.7
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Niobium</name>
+				<atomic_weight>92.9064</atomic_weight>
+				<atomic_number>41</atomic_number>
+				<oxidation_states>5, 3</oxidation_states>
+				<boiling_point units="Kelvin">5015</boiling_point>
+				<melting_point units="Kelvin">2742</melting_point>
+				<symbol>Nb</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      8.57
+    </density>
+				<electron_configuration>[Kr] 4d4 5s1 </electron_configuration>
+				<covalent_radius units="Angstroms">1.34</covalent_radius>
+				<electronegativity>1.6</electronegativity>
+				<atomic_radius units="Angstroms">1.46</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      690.1
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      10.8
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      26.9
+    </heat_of_fusion>
+				<ionization_potential>6.88</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.265
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      53.7
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Molybdenum</name>
+				<atomic_weight>95.94</atomic_weight>
+				<atomic_number>42</atomic_number>
+				<oxidation_states>6, 5, 4, 3, 2</oxidation_states>
+				<boiling_point units="Kelvin">4912</boiling_point>
+				<melting_point units="Kelvin">2896</melting_point>
+				<symbol>Mo</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      10.22
+    </density>
+				<electron_configuration>[Kr] 4d5 5s1 </electron_configuration>
+				<covalent_radius units="Angstroms">1.3</covalent_radius>
+				<electronegativity>2.16</electronegativity>
+				<atomic_radius units="Angstroms">1.39</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      590.4
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      9.4
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      36
+    </heat_of_fusion>
+				<ionization_potential>7.099</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.25
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      138
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Technetium</name>
+				<atomic_weight>98</atomic_weight>
+				<atomic_number>43</atomic_number>
+				<oxidation_states>7</oxidation_states>
+				<boiling_point units="Kelvin">4538</boiling_point>
+				<melting_point units="Kelvin">2477</melting_point>
+				<symbol>Tc</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      11.5
+    </density>
+				<electron_configuration>[Kr] 4d5 5s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.27</covalent_radius>
+				<electronegativity>1.9</electronegativity>
+				<atomic_radius units="Angstroms">1.36</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      502
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      8.5
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      23
+    </heat_of_fusion>
+				<ionization_potential>7.28</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.24
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      50.6
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Ruthenium</name>
+				<atomic_weight>101.07</atomic_weight>
+				<atomic_number>44</atomic_number>
+				<oxidation_states>2, 3, 4, 6, 8</oxidation_states>
+				<boiling_point units="Kelvin">4425</boiling_point>
+				<melting_point units="Kelvin">2610</melting_point>
+				<symbol>Ru</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      12.37
+    </density>
+				<electron_configuration>[Kr] 4d7 5s1 </electron_configuration>
+				<covalent_radius units="Angstroms">1.25</covalent_radius>
+				<electronegativity>2.2</electronegativity>
+				<atomic_radius units="Angstroms">1.34</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      567.77
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      8.3
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      25.52
+    </heat_of_fusion>
+				<ionization_potential>7.37</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.238
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      117
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Rhodium</name>
+				<atomic_weight>102.9055</atomic_weight>
+				<atomic_number>45</atomic_number>
+				<oxidation_states>2, 3, 4</oxidation_states>
+				<boiling_point units="Kelvin">3970</boiling_point>
+				<melting_point units="Kelvin">2236</melting_point>
+				<symbol>Rh</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      12.41
+    </density>
+				<electron_configuration>[Kr] 4d8 5s1 </electron_configuration>
+				<covalent_radius units="Angstroms">1.25</covalent_radius>
+				<electronegativity>2.28</electronegativity>
+				<atomic_radius units="Angstroms">1.34</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      495.39
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      8.3
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      21.76
+    </heat_of_fusion>
+				<ionization_potential>7.46</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.242
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      150
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Palladium</name>
+				<atomic_weight>106.42</atomic_weight>
+				<atomic_number>46</atomic_number>
+				<oxidation_states>2, 4</oxidation_states>
+				<boiling_point units="Kelvin">3240</boiling_point>
+				<melting_point units="Kelvin">1825</melting_point>
+				<symbol>Pd</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      12
+    </density>
+				<electron_configuration>[Kr] 4d10 </electron_configuration>
+				<covalent_radius units="Angstroms">1.28</covalent_radius>
+				<electronegativity>2.2</electronegativity>
+				<atomic_radius units="Angstroms">1.37</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      393.3
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      8.9
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      16.74
+    </heat_of_fusion>
+				<ionization_potential>8.34</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.244
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      71.8
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Silver</name>
+				<atomic_weight>107.868</atomic_weight>
+				<atomic_number>47</atomic_number>
+				<oxidation_states>1</oxidation_states>
+				<boiling_point units="Kelvin">2436</boiling_point>
+				<melting_point units="Kelvin">1235.08</melting_point>
+				<symbol>Ag</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      10.5
+    </density>
+				<electron_configuration>[Kr] 4d10 5s1 </electron_configuration>
+				<covalent_radius units="Angstroms">1.34</covalent_radius>
+				<electronegativity>1.93</electronegativity>
+				<atomic_radius units="Angstroms">1.44</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      250.63
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      10.3
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      11.3
+    </heat_of_fusion>
+				<ionization_potential>7.576</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.232
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      429
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Cadmium</name>
+				<atomic_weight>112.41</atomic_weight>
+				<atomic_number>48</atomic_number>
+				<oxidation_states>2</oxidation_states>
+				<boiling_point units="Kelvin">1040</boiling_point>
+				<melting_point units="Kelvin">594.26</melting_point>
+				<symbol>Cd</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      8.65
+    </density>
+				<electron_configuration>[Kr] 4d10 5s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.41</covalent_radius>
+				<electronegativity>1.69</electronegativity>
+				<atomic_radius units="Angstroms">1.71</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      99.87
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      13.1
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      6.07
+    </heat_of_fusion>
+				<ionization_potential>8.993</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.233
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      96.8
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Indium</name>
+				<atomic_weight>114.82</atomic_weight>
+				<atomic_number>49</atomic_number>
+				<oxidation_states>3</oxidation_states>
+				<boiling_point units="Kelvin">2350</boiling_point>
+				<melting_point units="Kelvin">429.78</melting_point>
+				<symbol>In</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      7.31
+    </density>
+				<electron_configuration>[Kr] 4d10 5s2 p1 </electron_configuration>
+				<covalent_radius units="Angstroms">1.44</covalent_radius>
+				<electronegativity>1.78</electronegativity>
+				<atomic_radius units="Angstroms">1.66</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      226.35
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      15.7
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      3.26
+    </heat_of_fusion>
+				<ionization_potential>5.786</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.233
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      81.6
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Tin</name>
+				<atomic_weight>118.71</atomic_weight>
+				<atomic_number>50</atomic_number>
+				<oxidation_states>4, 2</oxidation_states>
+				<boiling_point units="Kelvin">2876</boiling_point>
+				<melting_point units="Kelvin">505.12</melting_point>
+				<symbol>Sn</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      7.31
+    </density>
+				<electron_configuration>[Kr] 4d10 5s2 p2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.41</covalent_radius>
+				<electronegativity>1.96</electronegativity>
+				<atomic_radius units="Angstroms">1.62</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      290.37
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      16.3
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      7.2
+    </heat_of_fusion>
+				<ionization_potential>7.344</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.228
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      66.6
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Antimony</name>
+				<atomic_weight>121.757</atomic_weight>
+				<atomic_number>51</atomic_number>
+				<oxidation_states>+/-3, 5</oxidation_states>
+				<boiling_point units="Kelvin">1860</boiling_point>
+				<melting_point units="Kelvin">903.91</melting_point>
+				<symbol>Sb</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      6.69
+    </density>
+				<electron_configuration>[Kr] 4d10 5s2 p3 </electron_configuration>
+				<covalent_radius units="Angstroms">1.4</covalent_radius>
+				<electronegativity>2.05</electronegativity>
+				<atomic_radius units="Angstroms">1.59</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      67.97
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      18.4
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      19.83
+    </heat_of_fusion>
+				<ionization_potential>8.641</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.207
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      24.3
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Tellurium</name>
+				<atomic_weight>127.6</atomic_weight>
+				<atomic_number>52</atomic_number>
+				<oxidation_states>-2, 4, 6</oxidation_states>
+				<boiling_point units="Kelvin">1261</boiling_point>
+				<melting_point units="Kelvin">722.72</melting_point>
+				<symbol>Te</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      6.24
+    </density>
+				<electron_configuration>[Kr] 4d10 5s2 p4 </electron_configuration>
+				<covalent_radius units="Angstroms">1.36</covalent_radius>
+				<electronegativity>2.1</electronegativity>
+				<atomic_radius units="Angstroms">1.42</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      50.63
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      20.5
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      17.49
+    </heat_of_fusion>
+				<ionization_potential>9.009</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.202
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      2.35
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Iodine</name>
+				<atomic_weight>126.9045</atomic_weight>
+				<atomic_number>53</atomic_number>
+				<oxidation_states>+/-1, 5, 7</oxidation_states>
+				<boiling_point units="Kelvin">457.5</boiling_point>
+				<melting_point units="Kelvin">386.7</melting_point>
+				<symbol>I</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      4.93
+    </density>
+				<electron_configuration>[Kr] 4d10 5s2 p5 </electron_configuration>
+				<covalent_radius units="Angstroms">1.33</covalent_radius>
+				<electronegativity>2.66</electronegativity>
+				<atomic_radius units="Angstroms">1.32</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      20.9
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      25.7
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      7.76
+    </heat_of_fusion>
+				<ionization_potential>10.451</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.145
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      0.449
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="" state="GAS">
+				<name>Xenon</name>
+				<atomic_weight>131.29</atomic_weight>
+				<atomic_number>54</atomic_number>
+				<boiling_point units="Kelvin">165.1</boiling_point>
+				<melting_point units="Kelvin">161.39</melting_point>
+				<symbol>Xe</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      5.9
+    </density>
+				<electron_configuration>[Kr] 4d10 5s2 p6 </electron_configuration>
+				<covalent_radius units="Angstroms">1.31</covalent_radius>
+				<electronegativity>2.6</electronegativity>
+				<atomic_radius units="Angstroms">1.24</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      12.64
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      42.9
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      2.3
+    </heat_of_fusion>
+				<ionization_potential>12.13</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.158
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      0.00569
+    </thermal_conductivity>
+			</atom>
+		</td>
+	</tr>
+	<tr>
+		<td class="periodheading">6</td>
+		<td class="element">
+			<atom color="">
+				<name>Cesium</name>
+				<atomic_weight>132.9054</atomic_weight>
+				<atomic_number>55</atomic_number>
+				<oxidation_states>1</oxidation_states>
+				<boiling_point units="Kelvin">944</boiling_point>
+				<melting_point units="Kelvin">301.54</melting_point>
+				<symbol>Cs</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      1.87
+    </density>
+				<electron_configuration>[Xe] 6s1 </electron_configuration>
+				<covalent_radius units="Angstroms">2.35</covalent_radius>
+				<electronegativity>0.79</electronegativity>
+				<atomic_radius units="Angstroms">2.67</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      67.74
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      70
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      2.092
+    </heat_of_fusion>
+				<ionization_potential>3.894</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.24
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      35.9
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Barium</name>
+				<atomic_weight>137.33</atomic_weight>
+				<atomic_number>56</atomic_number>
+				<oxidation_states>2</oxidation_states>
+				<boiling_point units="Kelvin">2078</boiling_point>
+				<melting_point units="Kelvin">1002</melting_point>
+				<symbol>Ba</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      3.59
+    </density>
+				<electron_configuration>[Xe] 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.98</covalent_radius>
+				<electronegativity>0.89</electronegativity>
+				<atomic_radius units="Angstroms">2.22</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      140.2
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      39
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      8.01
+    </heat_of_fusion>
+				<ionization_potential>5.212</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.204
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      18.4
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Lutetium</name>
+				<atomic_weight>174.967</atomic_weight>
+				<atomic_number>71</atomic_number>
+				<oxidation_states>3</oxidation_states>
+				<boiling_point units="Kelvin">3668</boiling_point>
+				<melting_point units="Kelvin">1936</melting_point>
+				<symbol>Lu</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      9.84
+    </density>
+				<electron_configuration>[Xe] 4f14 5d1 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.56</covalent_radius>
+				<electronegativity>1.27</electronegativity>
+				<atomic_radius units="Angstroms">1.75</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      355
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      17.8
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      18.6
+    </heat_of_fusion>
+				<ionization_potential>5.43</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.15
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      16.4
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Hafnium</name>
+				<atomic_weight>178.49</atomic_weight>
+				<atomic_number>72</atomic_number>
+				<oxidation_states>4</oxidation_states>
+				<boiling_point units="Kelvin">4875</boiling_point>
+				<melting_point units="Kelvin">2504</melting_point>
+				<symbol>Hf</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      13.31
+    </density>
+				<electron_configuration>[Xe] 4f14 5d2 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.44</covalent_radius>
+				<electronegativity>1.3</electronegativity>
+				<atomic_radius units="Angstroms">1.67</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      661.07
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      13.6
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      21.76
+    </heat_of_fusion>
+				<ionization_potential>6.65</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.14
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      23
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Tantalum</name>
+				<atomic_weight>180.9479</atomic_weight>
+				<atomic_number>73</atomic_number>
+				<oxidation_states>5</oxidation_states>
+				<boiling_point units="Kelvin">5730</boiling_point>
+				<melting_point units="Kelvin">3293</melting_point>
+				<symbol>Ta</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      16.65
+    </density>
+				<electron_configuration>[Xe] 4f14 5d3 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.34</covalent_radius>
+				<electronegativity>1.5</electronegativity>
+				<atomic_radius units="Angstroms">1.49</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      737
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      10.9
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      36
+    </heat_of_fusion>
+				<ionization_potential>7.89</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.14
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      57.5
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Tungsten</name>
+				<atomic_weight>183.85</atomic_weight>
+				<atomic_number>74</atomic_number>
+				<oxidation_states>6, 5, 4, 3, 2</oxidation_states>
+				<boiling_point units="Kelvin">5825</boiling_point>
+				<melting_point units="Kelvin">3695</melting_point>
+				<symbol>W</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      19.3
+    </density>
+				<electron_configuration>[Xe] 4f14 5d4 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.3</covalent_radius>
+				<electronegativity>2.36</electronegativity>
+				<atomic_radius units="Angstroms">1.41</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      422.58
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      9.53
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      35.4
+    </heat_of_fusion>
+				<ionization_potential>7.98</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.13
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      174
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Rhenium</name>
+				<atomic_weight>186.207</atomic_weight>
+				<atomic_number>75</atomic_number>
+				<oxidation_states>7, 6, 4, 2, -1</oxidation_states>
+				<boiling_point units="Kelvin">5870</boiling_point>
+				<melting_point units="Kelvin">3455</melting_point>
+				<symbol>Re</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      21
+    </density>
+				<electron_configuration>[Xe] 4f14 5d5 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.28</covalent_radius>
+				<electronegativity>1.9</electronegativity>
+				<atomic_radius units="Angstroms">1.37</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      707.1
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      8.85
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      33.05
+    </heat_of_fusion>
+				<ionization_potential>7.88</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.137
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      47.9
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Osmium</name>
+				<atomic_weight>190.2</atomic_weight>
+				<atomic_number>76</atomic_number>
+				<oxidation_states>2, 3, 4, 6, 8</oxidation_states>
+				<boiling_point units="Kelvin">5300</boiling_point>
+				<melting_point units="Kelvin">3300</melting_point>
+				<symbol>Os</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      22.6
+    </density>
+				<electron_configuration>[Xe] 4f14 5d6 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.26</covalent_radius>
+				<electronegativity>2.2</electronegativity>
+				<atomic_radius units="Angstroms">1.35</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      627.6
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      8.43
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      29.29
+    </heat_of_fusion>
+				<ionization_potential>8.7</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.13
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      87.6
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Iridium</name>
+				<atomic_weight>192.22</atomic_weight>
+				<atomic_number>77</atomic_number>
+				<oxidation_states>2, 3, 4, 6</oxidation_states>
+				<boiling_point units="Kelvin">4700</boiling_point>
+				<melting_point units="Kelvin">2720</melting_point>
+				<symbol>Ir</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      22.6
+    </density>
+				<electron_configuration>[Xe] 4f14 5d7 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.27</covalent_radius>
+				<electronegativity>2.2</electronegativity>
+				<atomic_radius units="Angstroms">1.36</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      563.58
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      8.54
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      26.36
+    </heat_of_fusion>
+				<ionization_potential>9.1</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.13
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      147
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Platinum</name>
+				<atomic_weight>195.08</atomic_weight>
+				<atomic_number>78</atomic_number>
+				<oxidation_states>2, 4</oxidation_states>
+				<boiling_point units="Kelvin">4100</boiling_point>
+				<melting_point units="Kelvin">2042.1</melting_point>
+				<symbol>Pt</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      21.45
+    </density>
+				<electron_configuration>[Xe] 4f14 5d9 6s1 </electron_configuration>
+				<covalent_radius units="Angstroms">1.3</covalent_radius>
+				<electronegativity>2.28</electronegativity>
+				<atomic_radius units="Angstroms">1.39</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      510.45
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      9.1
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      19.66
+    </heat_of_fusion>
+				<ionization_potential>9</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.13
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      71.6
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="" state="SOLID">
+				<name>Gold</name>
+				<atomic_weight>196.9665</atomic_weight>
+				<atomic_number>79</atomic_number>
+				<oxidation_states>3, 1</oxidation_states>
+				<boiling_point units="Kelvin">3130</boiling_point>
+				<melting_point units="Kelvin">1337.58</melting_point>
+				<symbol>Au</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      19.3
+    </density>
+				<electron_configuration>[Xe] 4f14 5d10 6s1 </electron_configuration>
+				<covalent_radius units="Angstroms">1.34</covalent_radius>
+				<electronegativity>2.54</electronegativity>
+				<atomic_radius units="Angstroms">1.46</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      324.43
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      10.2
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      12.36
+    </heat_of_fusion>
+				<ionization_potential>9.225</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.128
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      317
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Mercury</name>
+				<atomic_weight>200.59</atomic_weight>
+				<atomic_number>80</atomic_number>
+				<oxidation_states>2, 1</oxidation_states>
+				<boiling_point units="Kelvin">629.88</boiling_point>
+				<melting_point units="Kelvin">234.31</melting_point>
+				<symbol>Hg</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      13.55
+    </density>
+				<electron_configuration>[Xe] 4f14 5d10 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.49</covalent_radius>
+				<electronegativity>2</electronegativity>
+				<atomic_radius units="Angstroms">1.6</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      59.3
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      14.8
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      2.292
+    </heat_of_fusion>
+				<ionization_potential>10.437</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.140
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      8.34
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Thallium</name>
+				<atomic_weight>204.383</atomic_weight>
+				<atomic_number>81</atomic_number>
+				<oxidation_states>3, 1</oxidation_states>
+				<boiling_point units="Kelvin">1746</boiling_point>
+				<melting_point units="Kelvin">577</melting_point>
+				<symbol>Tl</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      11.85
+    </density>
+				<electron_configuration>[Xe] 4f14 5d10 6s2 p1 </electron_configuration>
+				<covalent_radius units="Angstroms">1.48</covalent_radius>
+				<electronegativity>2.04</electronegativity>
+				<atomic_radius units="Angstroms">1.71</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      162.09
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      17.2
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      4.27
+    </heat_of_fusion>
+				<ionization_potential>6.108</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.129
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      46.1
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Lead</name>
+				<atomic_weight>207.2</atomic_weight>
+				<atomic_number>82</atomic_number>
+				<oxidation_states>4, 2</oxidation_states>
+				<boiling_point units="Kelvin">2023</boiling_point>
+				<melting_point units="Kelvin">600.65</melting_point>
+				<symbol>Pb</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      11.35
+    </density>
+				<electron_configuration>[Xe] 4f14 5d10 6s2 p2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.47</covalent_radius>
+				<electronegativity>2.33</electronegativity>
+				<atomic_radius units="Angstroms">1.75</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      177.9
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      18.3
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      4.77
+    </heat_of_fusion>
+				<ionization_potential>7.416</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.129
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      35.3
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="" state="SOLID">
+				<name>Bismuth</name>
+				<atomic_weight>208.9804</atomic_weight>
+				<atomic_number>83</atomic_number>
+				<oxidation_states>3, 5</oxidation_states>
+				<boiling_point units="Kelvin">1837</boiling_point>
+				<melting_point units="Kelvin">544.59</melting_point>
+				<symbol>Bi</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      9.75
+    </density>
+				<electron_configuration>[Xe] 4f14 5d10 6s2 p3 </electron_configuration>
+				<covalent_radius units="Angstroms">1.46</covalent_radius>
+				<electronegativity>2.02</electronegativity>
+				<atomic_radius units="Angstroms">1.7</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      179
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      21.3
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      11
+    </heat_of_fusion>
+				<ionization_potential>7.289</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.122
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      7.87
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Polonium</name>
+				<atomic_weight>209</atomic_weight>
+				<atomic_number>84</atomic_number>
+				<oxidation_states>4, 2</oxidation_states>
+				<melting_point units="Kelvin">527</melting_point>
+				<symbol>Po</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      9.3
+    </density>
+				<electron_configuration>[Xe] 4f14 5d10 6s2 p4 </electron_configuration>
+				<covalent_radius units="Angstroms">1.53</covalent_radius>
+				<electronegativity>2</electronegativity>
+				<atomic_radius units="Angstroms">1.67</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      120
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      22.7
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      13
+    </heat_of_fusion>
+				<ionization_potential>8.42</ionization_potential>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      20
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Astatine</name>
+				<atomic_weight>210</atomic_weight>
+				<atomic_number>85</atomic_number>
+				<oxidation_states>+/-1, 3, 5, 7</oxidation_states>
+				<boiling_point units="Kelvin">610</boiling_point>
+				<melting_point units="Kelvin">575</melting_point>
+				<symbol>At</symbol>
+				<electron_configuration>[Xe] 4f14 5d10 6s2 p5 </electron_configuration>
+				<covalent_radius units="Angstroms">1.47</covalent_radius>
+				<electronegativity>2.2</electronegativity>
+				<atomic_radius units="Angstroms">1.45</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      30
+    </heat_of_vaporization>
+				<heat_of_fusion units="kilojoules/mole">
+      12
+    </heat_of_fusion>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      1.7
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Radon</name>
+				<atomic_weight>222</atomic_weight>
+				<atomic_number>86</atomic_number>
+				<boiling_point units="Kelvin">211.4</boiling_point>
+				<melting_point units="Kelvin">202</melting_point>
+				<symbol>Rn</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      9.73
+    </density>
+				<electron_configuration>[Xe] 4f14 5d10 6s2 p6 </electron_configuration>
+				<electronegativity>0</electronegativity>
+				<atomic_radius units="Angstroms">1.34</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      16.4
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      50.5
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      2.9
+    </heat_of_fusion>
+				<ionization_potential>10.748</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.094
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      0.00364
+    </thermal_conductivity>
+			</atom>
+		</td>
+	</tr>
+	<tr>
+		<td class="periodheading">7</td>
+		<td class="element">
+			<atom color="">
+				<name>Francium</name>
+				<atomic_weight>223</atomic_weight>
+				<atomic_number>87</atomic_number>
+				<oxidation_states>1</oxidation_states>
+				<boiling_point units="Kelvin">950</boiling_point>
+				<melting_point units="Kelvin">300</melting_point>
+				<symbol>Fr</symbol>
+				<electron_configuration>[Rn] 7s1 </electron_configuration>
+				<electronegativity>0.7</electronegativity>
+				<atomic_radius units="Angstroms">2.7</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      64
+    </heat_of_vaporization>
+				<heat_of_fusion units="kilojoules/mole">
+      2.1
+    </heat_of_fusion>
+				<ionization_potential>0</ionization_potential>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      15
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Radium</name>
+				<atomic_weight>226.0254</atomic_weight>
+				<atomic_number>88</atomic_number>
+				<oxidation_states>2</oxidation_states>
+				<boiling_point units="Kelvin">1413</boiling_point>
+				<melting_point units="Kelvin">973</melting_point>
+				<symbol>Ra</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      5
+    </density>
+				<electron_configuration>[Rn] 7s2 </electron_configuration>
+				<electronegativity>0.89</electronegativity>
+				<atomic_radius units="Angstroms">2.33</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      136.82
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      45.2
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      8.37
+    </heat_of_fusion>
+				<ionization_potential>5.279</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.094
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      18.6
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Lawrencium</name>
+				<atomic_weight>262</atomic_weight>
+				<atomic_number>103</atomic_number>
+				<melting_point units="Kelvin">1900</melting_point>
+				<symbol>Lr</symbol>
+				<electron_configuration>[Rn] 5f14 6d1 7s2 </electron_configuration>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      10
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Rutherfordium</name>
+				<atomic_weight>261</atomic_weight>
+				<atomic_number>104</atomic_number>
+				<symbol>Rf</symbol>
+				<electron_configuration>[Rn] 5f14 6d2 7s2 </electron_configuration>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Dubnium</name>
+				<atomic_weight>262</atomic_weight>
+				<atomic_number>105</atomic_number>
+				<symbol>Db</symbol>
+				<electron_configuration>[Rn] 5f14 6d3 7s2 </electron_configuration>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Seaborgium</name>
+				<atomic_weight>263</atomic_weight>
+				<atomic_number>106</atomic_number>
+				<symbol>Sg</symbol>
+				<electron_configuration>[Rn] 5f14 6d4 7s2 </electron_configuration>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Bohrium</name>
+				<atomic_weight>262</atomic_weight>
+				<atomic_number>107</atomic_number>
+				<symbol>Bh</symbol>
+				<electron_configuration>[Rn] 5f14 6d5 7s2 </electron_configuration>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Hassium</name>
+				<atomic_weight>265</atomic_weight>
+				<atomic_number>108</atomic_number>
+				<symbol>Hs</symbol>
+				<electron_configuration>[Rn] 5f14 6d6 7s2 </electron_configuration>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Meitnerium</name>
+				<atomic_weight>266</atomic_weight>
+				<atomic_number>109</atomic_number>
+				<symbol>Mt</symbol>
+				<electron_configuration>[Rn] 5f14 6d7 7s2 </electron_configuration>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>ununnilium</name>
+				<atomic_weight>269</atomic_weight>
+				<atomic_number>110</atomic_number>
+				<symbol>Uun</symbol>
+				<electron_configuration>[Rn] 5f14 6d8 7s2 </electron_configuration>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>unununium</name>
+				<atomic_weight>272</atomic_weight>
+				<atomic_number>111</atomic_number>
+				<symbol>Uuu</symbol>
+				<electron_configuration>[Rn] 5f14 6d9 7s2 </electron_configuration>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>ununbium</name>
+				<atomic_weight>277</atomic_weight>
+				<atomic_number>112</atomic_number>
+				<symbol>Uub</symbol>
+				<electron_configuration>[Rn] 5f14 6d10 7s2 </electron_configuration>
+			</atom>
+		</td>
+
+	</tr>
+
+	<tr>
+		<td class="groupheading">Lanthanides</td>
+		<td class="element">
+			<atom color="">
+				<name>Lanthanum</name>
+				<atomic_weight>138.9055</atomic_weight>
+				<atomic_number>57</atomic_number>
+				<oxidation_states>3</oxidation_states>
+				<boiling_point units="Kelvin">3737</boiling_point>
+				<melting_point units="Kelvin">1191</melting_point>
+				<symbol>La</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      6.15
+    </density>
+				<electron_configuration>[Xe] 5d1 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.25</covalent_radius>
+				<electronegativity>1.1</electronegativity>
+				<atomic_radius units="Angstroms">1.38</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      399.57
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      22.5
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      11.3
+    </heat_of_fusion>
+				<ionization_potential>5.58</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.19
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      13.5
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Cerium</name>
+				<atomic_weight>140.12</atomic_weight>
+				<atomic_number>58</atomic_number>
+				<oxidation_states>3, 4</oxidation_states>
+				<boiling_point units="Kelvin">3715</boiling_point>
+				<melting_point units="Kelvin">1071</melting_point>
+				<symbol>Ce</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      6.77
+    </density>
+				<electron_configuration>[Xe] 4f1 5d1 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.65</covalent_radius>
+				<electronegativity>1.12</electronegativity>
+				<atomic_radius units="Angstroms">1.81</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      313.8
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      21
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      9.2
+    </heat_of_fusion>
+				<ionization_potential>5.47</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.19
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      11.4
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Praseodymium</name>
+				<atomic_weight>140.9077</atomic_weight>
+				<atomic_number>59</atomic_number>
+				<oxidation_states>3, 4</oxidation_states>
+				<boiling_point units="Kelvin">3785</boiling_point>
+				<melting_point units="Kelvin">1204</melting_point>
+				<symbol>Pr</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      6.77
+    </density>
+				<electron_configuration>[Xe] 4f3 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.65</covalent_radius>
+				<electronegativity>1.13</electronegativity>
+				<atomic_radius units="Angstroms">1.82</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      332.63
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      20.8
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      10.04
+    </heat_of_fusion>
+				<ionization_potential>5.42</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.193
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      12.5
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Neodymium</name>
+				<atomic_weight>144.24</atomic_weight>
+				<atomic_number>60</atomic_number>
+				<oxidation_states>3</oxidation_states>
+				<boiling_point units="Kelvin">3347</boiling_point>
+				<melting_point units="Kelvin">1294</melting_point>
+				<symbol>Nd</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      7.01
+    </density>
+				<electron_configuration>[Xe] 4f4 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.64</covalent_radius>
+				<electronegativity>1.14</electronegativity>
+				<atomic_radius units="Angstroms">1.82</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      283.68
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      20.6
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      10.88
+    </heat_of_fusion>
+				<ionization_potential>5.49</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.19
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      16.5
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Promethium</name>
+				<atomic_weight>145</atomic_weight>
+				<atomic_number>61</atomic_number>
+				<oxidation_states>3</oxidation_states>
+				<boiling_point units="Kelvin">3273</boiling_point>
+				<melting_point units="Kelvin">1315</melting_point>
+				<symbol>Pm</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      7.22
+    </density>
+				<electron_configuration>[Xe] 4f5 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.63</covalent_radius>
+				<electronegativity>1.13</electronegativity>
+				<atomic_volume units="cubic centimeters/mole">
+      22.4
+    </atomic_volume>
+				<ionization_potential>5.55</ionization_potential>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      17.9
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Samarium</name>
+				<atomic_weight>150.36</atomic_weight>
+				<atomic_number>62</atomic_number>
+				<oxidation_states>3, 2</oxidation_states>
+				<boiling_point units="Kelvin">2067</boiling_point>
+				<melting_point units="Kelvin">1347</melting_point>
+				<symbol>Sm</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      7.52
+    </density>
+				<electron_configuration>[Xe] 4f6 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.62</covalent_radius>
+				<electronegativity>1.17</electronegativity>
+				<atomic_radius units="Angstroms">1.81</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      191.63
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      19.9
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      11.09
+    </heat_of_fusion>
+				<ionization_potential>5.63</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.197
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      13.3
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Europium</name>
+				<atomic_weight>151.965</atomic_weight>
+				<atomic_number>63</atomic_number>
+				<oxidation_states>3, 2</oxidation_states>
+				<boiling_point units="Kelvin">1800</boiling_point>
+				<melting_point units="Kelvin">1095</melting_point>
+				<symbol>Eu</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      5.24
+    </density>
+				<electron_configuration>[Xe] 4f7 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.85</covalent_radius>
+				<electronegativity>1.2</electronegativity>
+				<atomic_radius units="Angstroms">1.99</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      175.73
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      28.9
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      9.21
+    </heat_of_fusion>
+				<ionization_potential>5.67</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.182
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      13.9
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Gadolinium</name>
+				<atomic_weight>157.25</atomic_weight>
+				<atomic_number>64</atomic_number>
+				<oxidation_states>3</oxidation_states>
+				<boiling_point units="Kelvin">3545</boiling_point>
+				<melting_point units="Kelvin">1585</melting_point>
+				<symbol>Gd</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      7.9
+    </density>
+				<electron_configuration>[Xe] 4f7 5d1 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.61</covalent_radius>
+				<electronegativity>1.2</electronegativity>
+				<atomic_radius units="Angstroms">1.8</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      311.71
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      19.9
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      10.46
+    </heat_of_fusion>
+				<ionization_potential>6.15</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.236
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      10.6
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Terbium</name>
+				<atomic_weight>158.9253</atomic_weight>
+				<atomic_number>65</atomic_number>
+				<oxidation_states>3, 4</oxidation_states>
+				<boiling_point units="Kelvin">3500</boiling_point>
+				<melting_point units="Kelvin">1629</melting_point>
+				<symbol>Tb</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      8.23
+    </density>
+				<electron_configuration>[Xe] 4f9 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.59</covalent_radius>
+				<electronegativity>1.1</electronegativity>
+				<atomic_radius units="Angstroms">1.8</atomic_radius>
+				<atomic_volume units="cubic centimeters/mole">
+      19.2
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      15.48
+    </heat_of_fusion>
+				<ionization_potential>5.86</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.18
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      11.1
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Dysprosium</name>
+				<atomic_weight>162.5</atomic_weight>
+				<atomic_number>66</atomic_number>
+				<oxidation_states>3</oxidation_states>
+				<boiling_point units="Kelvin">2840</boiling_point>
+				<melting_point units="Kelvin">1685</melting_point>
+				<symbol>Dy</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      8.55
+    </density>
+				<electron_configuration>[Xe] 4f10 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.59</covalent_radius>
+				<electronegativity>1.22</electronegativity>
+				<atomic_radius units="Angstroms">1.8</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      230
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      19
+    </atomic_volume>
+				<ionization_potential>5.93</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.173
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      10.7
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Holmium</name>
+				<atomic_weight>164.9303</atomic_weight>
+				<atomic_number>67</atomic_number>
+				<oxidation_states>3</oxidation_states>
+				<boiling_point units="Kelvin">2968</boiling_point>
+				<melting_point units="Kelvin">1747</melting_point>
+				<symbol>Ho</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      8.8
+    </density>
+				<electron_configuration>[Xe] 4f11 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.58</covalent_radius>
+				<electronegativity>1.23</electronegativity>
+				<atomic_radius units="Angstroms">1.79</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      251.04
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      18.7
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      11.06
+    </heat_of_fusion>
+				<ionization_potential>6.02</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.165
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      16.2
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Erbium</name>
+				<atomic_weight>167.26</atomic_weight>
+				<atomic_number>68</atomic_number>
+				<oxidation_states>3</oxidation_states>
+				<boiling_point units="Kelvin">3140</boiling_point>
+				<melting_point units="Kelvin">1802</melting_point>
+				<symbol>Er</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      9.07
+    </density>
+				<electron_configuration>[Xe] 4f12 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.57</covalent_radius>
+				<electronegativity>1.24</electronegativity>
+				<atomic_radius units="Angstroms">1.78</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      292.88
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      18.4
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      17.15
+    </heat_of_fusion>
+				<ionization_potential>6.101</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.168
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      14.3
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Thulium</name>
+				<atomic_weight>168.9342</atomic_weight>
+				<atomic_number>69</atomic_number>
+				<oxidation_states>3, 2</oxidation_states>
+				<boiling_point units="Kelvin">2223</boiling_point>
+				<melting_point units="Kelvin">1818</melting_point>
+				<symbol>Tm</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      9.32
+    </density>
+				<electron_configuration>[Xe] 4f13 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.56</covalent_radius>
+				<electronegativity>1.25</electronegativity>
+				<atomic_radius units="Angstroms">1.77</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      191
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      18.1
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      16.8
+    </heat_of_fusion>
+				<ionization_potential>6.184</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.16
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      16.8
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Ytterbium</name>
+				<atomic_weight>173.04</atomic_weight>
+				<atomic_number>70</atomic_number>
+				<oxidation_states>3, 2</oxidation_states>
+				<boiling_point units="Kelvin">1469</boiling_point>
+				<melting_point units="Kelvin">1092</melting_point>
+				<symbol>Yb</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      6.97
+    </density>
+				<electron_configuration>[Xe] 4f14 6s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.7</covalent_radius>
+				<electronegativity>1.1</electronegativity>
+				<atomic_radius units="Angstroms">1.94</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      128
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      24.8
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      7.7
+    </heat_of_fusion>
+				<ionization_potential>6.254</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.155
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      34.9
+    </thermal_conductivity>
+			</atom>
+		</td>
+	</tr>
+	<tr>
+		<td class="groupheading">Actinides</td>
+		<td class="element">
+			<atom color="">
+				<name>Actinium</name>
+				<atomic_weight>227</atomic_weight>
+				<atomic_number>89</atomic_number>
+				<oxidation_states>3</oxidation_states>
+				<boiling_point units="Kelvin">3470</boiling_point>
+				<symbol>Ac</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      10.07
+    </density>
+				<electron_configuration>[Rn] 6d1 7s2 </electron_configuration>
+				<electronegativity>1.1</electronegativity>
+				<atomic_radius units="Angstroms">1.88</atomic_radius>
+				<atomic_volume units="cubic centimeters/mole">
+      22.5
+    </atomic_volume>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.12
+    </specific_heat_capacity>
+				<ionization_potential>5.17</ionization_potential>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      12
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Thorium</name>
+				<atomic_weight>232.0381</atomic_weight>
+				<atomic_number>90</atomic_number>
+				<oxidation_states>4</oxidation_states>
+				<boiling_point units="Kelvin">5060</boiling_point>
+				<melting_point units="Kelvin">2028</melting_point>
+				<symbol>Th</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      11.72
+    </density>
+				<electron_configuration>[Rn] 6d2 7s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.65</covalent_radius>
+				<electronegativity>1.3</electronegativity>
+				<atomic_radius units="Angstroms">1.8</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      543.92
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      19.9
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      15.65
+    </heat_of_fusion>
+				<ionization_potential>6.08</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.113
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      54
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Protactinium</name>
+				<atomic_weight>231.0359</atomic_weight>
+				<atomic_number>91</atomic_number>
+				<oxidation_states>5, 4</oxidation_states>
+				<boiling_point units="Kelvin">4300</boiling_point>
+				<melting_point units="Kelvin">1845</melting_point>
+				<symbol>Pa</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      15.4
+    </density>
+				<electron_configuration>[Rn] 5f2 6d1 7s2 </electron_configuration>
+				<electronegativity>1.5</electronegativity>
+				<atomic_radius units="Angstroms">1.61</atomic_radius>
+				<atomic_volume units="cubic centimeters/mole">
+      15
+    </atomic_volume>
+				<ionization_potential>5.88</ionization_potential>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      47
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Uranium</name>
+				<atomic_weight>238.029</atomic_weight>
+				<atomic_number>92</atomic_number>
+				<oxidation_states>6, 5, 4, 3</oxidation_states>
+				<boiling_point units="Kelvin">4407</boiling_point>
+				<melting_point units="Kelvin">1408</melting_point>
+				<symbol>U</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      18.95
+    </density>
+				<electron_configuration>[Rn] 5f3 6d1 7s2 </electron_configuration>
+				<covalent_radius units="Angstroms">1.42</covalent_radius>
+				<electronegativity>1.38</electronegativity>
+				<atomic_radius units="Angstroms">1.38</atomic_radius>
+				<heat_of_vaporization units="kilojoules/mole">
+      422.58
+    </heat_of_vaporization>
+				<atomic_volume units="cubic centimeters/mole">
+      12.5
+    </atomic_volume>
+				<heat_of_fusion units="kilojoules/mole">
+      15.48
+    </heat_of_fusion>
+				<ionization_potential>6.05</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.12
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      27.6
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Neptunium</name>
+				<atomic_weight>237.0482</atomic_weight>
+				<atomic_number>93</atomic_number>
+				<oxidation_states>6, 5, 4, 3</oxidation_states>
+				<boiling_point units="Kelvin">4175</boiling_point>
+				<melting_point units="Kelvin">912</melting_point>
+				<symbol>Np</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      20.2
+    </density>
+				<electron_configuration>[Rn] 5f4 6d1 7s2 </electron_configuration>
+				<electronegativity>1.36</electronegativity>
+				<atomic_radius units="Angstroms">1.3</atomic_radius>
+				<atomic_volume units="cubic centimeters/mole">
+      21.1
+    </atomic_volume>
+				<ionization_potential>6.19</ionization_potential>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      6.3
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Plutonium</name>
+				<atomic_weight>244</atomic_weight>
+				<atomic_number>94</atomic_number>
+				<oxidation_states>6, 5, 4, 3</oxidation_states>
+				<boiling_point units="Kelvin">3505</boiling_point>
+				<melting_point units="Kelvin">913</melting_point>
+				<symbol>Pu</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      19.84
+    </density>
+				<electron_configuration>[Rn] 5f6 7s2 </electron_configuration>
+				<electronegativity>1.28</electronegativity>
+				<atomic_radius units="Angstroms">1.51</atomic_radius>
+				<atomic_volume units="cubic centimeters/mole">
+      12.32
+    </atomic_volume>
+				<ionization_potential>6.06</ionization_potential>
+				<specific_heat_capacity units="Joules/gram/degree Kelvin">
+      0.13
+    </specific_heat_capacity>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      6.74
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Americium</name>
+				<atomic_weight>243</atomic_weight>
+				<atomic_number>95</atomic_number>
+				<oxidation_states>6, 5, 4, 3</oxidation_states>
+				<boiling_point units="Kelvin">2880</boiling_point>
+				<melting_point units="Kelvin">1449</melting_point>
+				<symbol>Am</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      13.7
+    </density>
+				<electron_configuration>[Rn] 5f7 7s2 </electron_configuration>
+				<electronegativity>1.3</electronegativity>
+				<atomic_radius units="Angstroms">1.84</atomic_radius>
+				<atomic_volume units="cubic centimeters/mole">
+      20.8
+    </atomic_volume>
+				<ionization_potential>6</ionization_potential>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      10
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Curium</name>
+				<atomic_weight>247</atomic_weight>
+				<atomic_number>96</atomic_number>
+				<oxidation_states>3</oxidation_states>
+				<melting_point units="Kelvin">1620</melting_point>
+				<symbol>Cm</symbol>
+				<density units="grams/cubic centimeter"><!-- At 300K -->
+      13.5
+    </density>
+				<electron_configuration>[Rn] 5f7 6d1 7s2 </electron_configuration>
+				<electronegativity>1.3</electronegativity>
+				<atomic_volume units="cubic centimeters/mole">
+      18.3
+    </atomic_volume>
+				<ionization_potential>6.02</ionization_potential>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      10
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Berkelium</name>
+				<atomic_weight>247</atomic_weight>
+				<atomic_number>97</atomic_number>
+				<oxidation_states>4, 3</oxidation_states>
+				<symbol>Bk</symbol>
+				<electron_configuration>[Rn] 5f9 7s2 </electron_configuration>
+				<electronegativity>1.3</electronegativity>
+				<ionization_potential>6.23</ionization_potential>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      10
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Californium</name>
+				<atomic_weight>251</atomic_weight>
+				<atomic_number>98</atomic_number>
+				<oxidation_states>3</oxidation_states>
+				<melting_point units="Kelvin">1170</melting_point>
+				<symbol>Cf</symbol>
+				<electron_configuration>[Rn] 5f10 7s2 </electron_configuration>
+				<electronegativity>1.3</electronegativity>
+				<ionization_potential>6.3</ionization_potential>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      10
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Einsteinium</name>
+				<atomic_weight>252</atomic_weight>
+				<atomic_number>99</atomic_number>
+				<melting_point units="Kelvin">1130</melting_point>
+				<symbol>Es</symbol>
+				<electron_configuration>[Rn] 5f11 7s2 </electron_configuration>
+				<electronegativity>1.3</electronegativity>
+				<ionization_potential>6.42</ionization_potential>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      10
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Fermium</name>
+				<atomic_weight>257</atomic_weight>
+				<atomic_number>100</atomic_number>
+				<melting_point units="Kelvin">1800</melting_point>
+				<symbol>Fm</symbol>
+				<electron_configuration>[Rn] 5f12 7s2 </electron_configuration>
+				<electronegativity>1.3</electronegativity>
+				<ionization_potential>6.5</ionization_potential>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      10
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Mendelevium</name>
+				<atomic_weight>258</atomic_weight>
+				<atomic_number>101</atomic_number>
+				<melting_point units="Kelvin">1100</melting_point>
+				<symbol>Md</symbol>
+				<electron_configuration>[Rn] 5f13 7s2 </electron_configuration>
+				<electronegativity>1.3</electronegativity>
+				<ionization_potential>6.58</ionization_potential>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      10
+    </thermal_conductivity>
+			</atom>
+		</td>
+		<td class="element">
+			<atom color="">
+				<name>Nobelium</name>
+				<atomic_weight>259</atomic_weight>
+				<atomic_number>102</atomic_number>
+				<melting_point units="Kelvin">1100</melting_point>
+				<symbol>No</symbol>
+				<electron_configuration>[Rn] 5f14 7s2 </electron_configuration>
+				<electronegativity>1.3</electronegativity>
+				<ionization_potential>6.65</ionization_potential>
+				<thermal_conductivity units="Watts/meter/degree Kelvin"><!-- At 300K -->
+      10
+    </thermal_conductivity>
+			</atom>
+		</td>
+	</tr>
+</table></periodic>
